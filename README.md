@@ -1,5 +1,5 @@
 ## CRUD LARAVEL 🐘
 
 ```
-php artisan TO-DO
+php artisan TO-DO serve
 ```
